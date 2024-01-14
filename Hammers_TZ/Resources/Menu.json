@@ -1,0 +1,114 @@
+{
+  "categories": [
+    {
+      "name": "Pizza",
+      "items": [
+        {
+          "name": "Margherita",
+          "description": "Classic margherita pizza",
+          "price": 10.99,
+          "image": "pizza"
+        },
+        {
+          "name": "Pepperoni",
+          "description": "Spicy pepperoni pizza",
+          "price": 12.99,
+          "image": "pizza"
+        },
+        {
+          "name": "Vegetarian",
+          "description": "Fresh veggie pizza",
+          "price": 11.99,
+          "image": "pizza"
+        },
+        {
+          "name": "Hawaiian",
+          "description": "Sweet and savory Hawaiian pizza",
+          "price": 13.99,
+          "image": "pizza"
+        }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "items": [
+        {
+          "name": "Classic Burger",
+          "description": "Juicy beef patty with lettuce, tomato, and cheese",
+          "price": 9.99,
+          "image": "classic_burger.jpg"
+        },
+        {
+          "name": "Chicken Burger",
+          "description": "Grilled chicken breast with mayo and veggies",
+          "price": 8.99,
+          "image": "chicken_burger.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Chocolate Cake",
+          "description": "Decadent chocolate cake",
+          "price": 5.99,
+          "image": "chocolate_cake.jpg"
+        },
+        {
+          "name": "Cheesecake",
+          "description": "Creamy cheesecake with fruit topping",
+          "price": 7.99,
+          "image": "cheesecake.jpg"
+        },
+        {
+          "name": "Tiramisu",
+          "description": "Classic Italian tiramisu",
+          "price": 6.99,
+          "image": "tiramisu.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Drinks",
+      "items": [
+        {
+          "name": "Cola",
+          "description": "Classic cola",
+          "price": 1.99,
+          "image": "cola.jpg"
+        },
+        {
+          "name": "Orange Juice",
+          "description": "Freshly squeezed orange juice",
+          "price": 2.49,
+          "image": "orange_juice.jpg"
+        },
+        {
+          "name": "Iced Coffee",
+          "description": "Chilled iced coffee",
+          "price": 3.99,
+          "image": "iced_coffee.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Pasta",
+      "items": [
+        {
+          "name": "Spaghetti Bolognese",
+          "description": "Classic Italian pasta with meat sauce",
+          "price": 10.99,
+          "image": "spaghetti_bolognese.jpg"
+        },
+        {
+          "name": "Penne Alfredo",
+          "description": "Creamy Alfredo sauce with penne pasta",
+          "price": 11.99,
+          "image": "penne_alfredo.jpg"
+        }
+      ]
+    }
+  ]
+}
+
